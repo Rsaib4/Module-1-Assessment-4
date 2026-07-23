@@ -1,0 +1,63 @@
+.gallery img{
+    width: 30%;
+}
+
+.gallery-1 img{
+    width: 60%;
+}
+
+h2{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: darkcyan
+}
+
+h4{
+    font-family: impacy, fantasy;
+    font-size: 30px;
+    font-style: italic;
+    color:darkcyan
+        
+}
+p{
+    font-family: Helvetica, sans-serif;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: #8faf8f
+    
+}
+
+#menu a{
+    color: #ffffff;
+    font-family:Helvetica,sans-serif;
+    font-size:18px;
+    text-decoration:none;
+    font-weight:800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: lightblue;
+}
+
+body{
+    background-color: #e7e5e4
+}
+
+button{
+    background-color: skyblue;
+    padding: 15px 40px;
+    font-size: 18px;
+    border-radius: 8px
+}
+
+button:hover{
+    background-color: dodgerblue;
+}
